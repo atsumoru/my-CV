@@ -261,3 +261,10 @@ body {
     margin-right: 120px;
  }
 
+ @media print {
+
+    .main-section {
+        box-shadow: none;
+    }
+ }  
+
