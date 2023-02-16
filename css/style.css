@@ -195,7 +195,7 @@ body {
 }
 
 .contacts-section,
-.tech-skills-section {
+.skills-section {
     margin: 50px 0 50px 40px;
     margin-left: 50px;
 }
@@ -228,18 +228,18 @@ body {
     line-height: 24px;
 }
 
-/* tech skills list*/
+/* skills list*/
 
- .tech-skills-list {
+ .skills-list {
     padding: 0 0 0 17px;
      
  }
 
- .tech-skills-item {
+ .skills-item {
     color: #FB6D3A;
  }
 
- .tech-skills-item-text {
+ .skills-item-text {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
